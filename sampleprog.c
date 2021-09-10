@@ -6,7 +6,7 @@ int main ( void ) {
     int a;
     printf( "Enter a number to check if it is divisble by two : " );
     scanf( "%d", &a );
-    if (  divisbleByTwo( a ) );
+    if (  divisibleByTwo( a ) )
         printf("Yes it is darling!");
     else
         printf("Na ah:<");
